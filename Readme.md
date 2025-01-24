@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
 
-## Rumpus
+## Wump Revolt 
 
 A Friendly Python Revolt Bot!
